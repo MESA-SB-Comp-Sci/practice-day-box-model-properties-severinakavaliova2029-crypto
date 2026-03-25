@@ -3,4 +3,24 @@
 }
 
 /* write rules below */
+padded{
+   padding: 20px;
+}
+.spaced{
+   margin: 20px;
+}
+.has-border{
+   border: 3px solid black;
+}
+.fixed-width{
+   width: 300px;
+}
+#hero-box{
+   height: 200px;
+   padding: 40px;
+   border: 5px solid navy;
+}
+
+
+
 
